@@ -8,7 +8,7 @@ Created on Sat Feb  9 14:23:48 2019
 import cv2
 import numpy as np
 from scipy.spatial import distance
-
+import imutils
 
 hand_img = cv2.imread("5.jpg")
 
